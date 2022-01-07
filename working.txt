@@ -1,0 +1,5 @@
+//it will generate your report marksheet of particular subject.
+//it will automatically calculate marks of student with student response and correct response
+//it allow calculation of negative marking also 
+//you need to upload student responses and correct answer in a excel sheet 
+//command for running the code -python manage.py runserver(this command give you a link of local host copy apaste in your browser and run)
